@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Lincampride",
+    "slug": "lincampride-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#0a0e17",
+    "ios": { "supportsTablet": false },
+    "android": { "backgroundColor": "#0a0e17" }
+  }
+}
